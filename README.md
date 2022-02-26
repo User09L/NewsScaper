@@ -1,0 +1,2 @@
+# NewsScaper
+Scaper for News
